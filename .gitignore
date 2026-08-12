@@ -1,0 +1,21 @@
+# Secrets and generated state - never commit these
+backups/
+*.csv
+!examples/*.csv.example
+
+# Python
+venv/
+ise-venv/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
