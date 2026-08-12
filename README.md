@@ -1,6 +1,6 @@
 # ise-tacacs-cutover
 
-![CI](https://github.com/<your-org>/ise-tacacs-cutover/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/mizitheji/ise-tacacs-cutover/actions/workflows/ci.yml/badge.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)
 
